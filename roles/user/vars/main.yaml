@@ -1,4 +1,1 @@
-#SPECIFIC_VAR: specific-value
-
-REDIS_HOST: redis.awsb26raman.xyz
-MONGO_HOST: mongodb.awsb26raman.xyz
+SPECIFIC_VAR: specific-value
