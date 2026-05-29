@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.awsb26raman.xyz
+REDIS_HOST: redis.awsb26raman.xyz
+CATALOGUE_HOST: catalogue.awsb26raman.xyz
+CART_HOST: cart.awsb26raman.xyz
+USER_HOST: user.awsb26raman.xyz
+RABBITMQ_HOST: rabbitmq.awsb26raman.xyz
+MYSQL_HOST: mysql.awsb26raman.xyz
+SHIPPING_HOST: shipping.awsb26raman.xyz
+PAYMENT_HOST: payment.awsb26raman.xyz
